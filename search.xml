@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/08/20/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>2023-0608</title>
     <url>/2023/08/22/2023-0608/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>昨夜在教室醒来 太阳高挂<br>课桌还是那样的黄<br>反射出你带着薄红的脸庞<br>我说 缺点东西<br>于是 手臂摇摆间 起风了<br>愿您在梦里察觉这一缕克制的轻抚<br>我好开心哈哈哈哈哈哈哈哈！（晚上发疯）</p>
@@ -58,7 +40,7 @@
     <title>2023-0615</title>
     <url>/2023/08/22/2023-0615/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>每日好句子<br>一日一月一山水<br>半醉半醒半怕5<br>让我想想夜里发生了什么事情<br>一起去酒吧 散步回家 计划爬山看日出 回去洗澡<br>又聊又kiss一个通宵 表达担忧和不自信 给我一个猛烈的推开和push 天台看朝霞 记录清晨<br>已知情报:<br>1.缺少陪伴，感情消散快<br>2.对他人的评论和看法有意见<br>3.担忧从朋友开始的一段关系，最终都是走向be般的结束（类似经历过多导致ptsd）<br>4.重视结果，但也对长期关系有同样的渴求<br>5.生气时会冷暴力，但其实需要的是情绪稳定的人帮助梳理和解决问题<br>6.对不爱的人性冷淡<br>7.会去爱一个自己坚定选择的人<br>8.希望自己成为一个情绪更加稳定的人<br>9.边界感较低 对待喜欢和能接受的人，不排斥亲密接触<br>10.担忧关系的不对等和无法给我同等的爱</p>
-<p>！<a href="/images/0615.jpg">图片</a></p>
+<p><a href="/images/0615.jpg">图片</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -85,7 +67,7 @@
     <title>2023-0624</title>
     <url>/2023/08/22/2023-0624/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>但是别谈论花园，别谈论月亮，别谈论玫瑰，别谈论大海。谈谈你知道的，谈谈在你骨髓里震动，在你眼神里造出光影的，谈谈你的骨头不停歇的疼痛。谈谈眩晕，谈谈你的呼吸，你的悲伤，你的背叛。我必须经历的过程，那么黑暗，那么安静。噢，谈谈寂静吧。​<br>—-夜的命名术<br>网易云记录了些什么……<br>果然还是文字会记录当时最真实的心境</p>
-<p>! <a href="/imagse/0624.jpg">图片</a></p>
+<p><a href="/images/0624.jpg">图片</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -112,6 +94,217 @@
     <title>2023-南京游-0616~0618</title>
     <url>/2023/08/22/2023-%E5%8D%97%E4%BA%AC%E6%B8%B8-0616-0618/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>事项<br>0616晚 南站到达-武定门地铁出-白鹭爱涛酒店地址确认-目标老门东出发-世界精酿博物馆品尝蜂蜜味啤酒-老门东门口买了杯水-蟹黄汤包➕鸭血粉丝汤-骑车去window 98（见酒吧章节）-海韵之星泡澡搓背睡觉<br>0617 日行30000步<br>5:40醒来-6:30洗漱-7:50到达南京南-m记等呀等-6号口西边接到了卷-坐地铁3号线呀-吐槽跷脚牛肉嗷-放行李呀-夸了酒店选的漂亮，开心（但是前台好冷漠嗷）-一身咖啡色的小裙子真好看-4号线去蒋王庙看皮肤去咯-买水故意拧紧瓶盖嗷-一路都在被骂变态、呆子、猪😶-10:30到医院啦，结果下午3:30以后的号，那就回去逛逛吧-第一家甜品店不凑巧没开门，可惜计划的凤梨冻没吃上-路边走走吧-南京遛狗素质有待提高-秦淮河边 绿水 树影 两边高耸的居民楼 她回眸 我吻了上去（第一个深化记忆点） -好了，我孩子名字有了 叫谷涧-去第二家鸡鸣巷ten olives 没有无花果塔，但是有巧克力蛋糕，你一口我一口，看她拍照，神情好认真-因为下雨，撑着伞在散步，往上海路晃悠晃悠（有人不信我看一眼地图就能记得怎么走）-聊着过去聊着现在聊着我们-金鹰门口看见了摔倒的外卖小哥，幸好带了纸和碘酒棉签，路人都是善意满满的，好棒呀-但是有个呆呆，差点被过来的电瓶车蹭到，吓我一跳-路上卷看到黑人小哥，哼了black pink哈哈哈哈-在买眉笔结果找了半天，没看到花西子的就溜溜咯-茶颜悦色排队人真多服了-走走走，到上海路了-这学校氛围真好嗷，卷说看见了185男大，🤔谁年轻的时候还不是了-到校门口了！看见一堆夹竹桃，白色开花咯-走走拍拍走走拍拍，有冰与火之歌的宣传展，🎲显示日期有点意思嗷-不是吧，你也玩无主之地，别太离谱😂-终于走到了，转角遇见可西玛！这店面属实是我见过的最小的了-点了套餐开吃，先是红酒调制饮品，酸酸涩涩还不错，放的水果氧化太快，然后塔可，四份小小的，有大虾、蔓越莓鹅肝、还有面包片，卷吃不了小西红柿，吃了容易犯恶心吐！！！然后是西班牙海鲜饭，整体不错，海鲜新鲜度较高，吃一半过敏实在痒的受不了啦，看不下，要了一杯冰块，准备冰敷！四个冰球球，有人猜到我要做啥了，坐在她旁边，她在吃饭，我在给你敷冰块，我看见你的勺子在抖了，i see you and you too。（第二个深化记忆点）-马路对面上个公厕，此处注意以后尽量远离公厕，卷不太喜欢，出来看见她在抬头看二楼人家的小风车，起风悠悠的转-曾经很喜欢去猫咖，后来觉得猫猫在猫咖里没有外面的小野猫有生命力啦，还真是细腻的感知力-city walk的精髓就在于乱蹿，于是乎转到小巷子里了，来到了合群新村！-差点以为没路了，柳暗花明见小白猫 绿眼小白猫🐱 疯狂拍拍拍 卷拍猫猫 我拍她 （第三个深化记忆点）- 右转哎嘿又有路了-小角落里一家又一家咖啡店，还有随处可见的7-视角转换顺着宁海路直走，遇见初中生下午上学考试！人均校服，还有穿旗袍的家长拉着比自己高一头的孩子，emmmm小妈装既视感，话说今天卷穿的也算包臀裙小妈装？🤔-路过民国建筑群，看见大凤凰！-原计划去宁海路的民国公园，结果右转，嘿好看的黄墙，卷说像寺庙，确实-走走停停，拍拍拍，不知道第多少次感叹自己朋友拍绿色和街道拍的好，可是我依旧认为每个人都有发现不同美的眼睛，你拍的也很好看-转角遇见拍婚纱照的一对新人，戴墨镜搞怪风哈哈哈，拍双向奔赴的场景，还行新郎挺呆的-然后又遇到一对！这一对西服不太行，新郎矮了-溜溜达达人越来越少啦，看见了小婴儿车和一家三口，哈哈哈找了好久的姿势拍照片-前方右转，走出街口咯，准备顺着路口出发去玄武湖，小雨滴滴哒哒不停，你说你可以在一个地方等20分钟，就为拍一张照片，我想你可以为自己想要的风景细数1200秒，认真的样子真的超帅-来到大圆环，逛逛先锋小书店，结果是个半圆-过马路咯，在路中间等你拍照-一路向前直走，告诉我要拍证件照啦，可以一起去尝试美式风格！开心！-突然之间开始下雨，跑去躲雨啦，在自助取款机的小亭子里，我靠着栏杆，你依偎在我怀里……好想就这样一直待在你身边（第四个深化记忆点）-终究是继续下雨，走过路边小店看到小美短，啧，眼睛睁不开的美短-丢丢丢走过下穿隧道，来到玄武门啦！-进门以后突然就不那么热了，淅沥沥的小雨，感到卷也开心起来啦-前方右转顺着大路开始溜达咯，有小亭子，小瀑布，不知名的黄色小花（原来是格桑花）-偶遇一只认真洗澡的小橘猫，是真认真啊，完全不把我两当回事！-卷说她喜欢花，但是并不是特别喜欢拍花（此时正在看夹竹桃）-看的出来，卷走累了，溜达了四分之一的玄武湖外沿，从明城墙入口出去咯-此时快要过了叫号的点，赶紧打车溜溜-终于，差3分钟的时候我们又回到医院了，刚刚好，叫的号我是第二个哈哈哈哈哈-这医生我也服气，开两个涂的就没了，我都做好第一次吃中药的心理准备了，希望有用吧！-回酒店办入住，顺便换衣服，卷走累啦！-………我在考虑到晚饭前这些内容怎么写，这根本不是记不记得住的问题了，这是不过审的东西啊，两个人洗完澡，我还穿着那个厚的要死的大浴袍，一起躺着，酒店电视机竟然不是会员，差评-忍不了了，我想亲她，好吧我得承认这种时候大脑已经被爱情冲昏🤫，只记得我在疯狂贴过去，海马体失去工作能力-咳咳，开始商量晚上去哪吃，找了家附近的烤肉店哒（下次注意，要提前安排下晚餐情况，做好至少3种备案）-下雨咯，溜溜达达溜溜达达，听了听卷说她朋友的故事，哎就算两个人在一起如何喜欢，逃避问题和无法情绪稳定，注定难以长久-终于穿过n个小巷子，到了店家啦-还不错的小型烤肉店，肉质不错，炸物有二饼哈哈哈，酒水尚可，精致小甜水级别，吃的很开心-计划去小酒馆，但是担心卷妈妈打视频，于是先回酒店啦，等了好一会，没打来！-累了不想出门了，两个人一起瘫在床上躺着-接下来的剧情部分，主要包含一个大哭包，一个又一个停不下来的吻，一瓶绝对伏特加兑奇怪的饮料，一个巴不得自己立马醉倒的人，一句10年才说出口的话，一个诡异的性冷淡的情况，（这里插一句，姨妈期间 这个事真做不了 心里这关过不去）-哦对了，氯雷他定片买了，早上记得拿-卷睡觉要睡低枕头，拿毛巾垫着，戒指在下面！-半夜打呼噜了！！！我只要喝酒就打呼噜，呜呜呜呜呜呜呜呜呜，还吵醒卷了，真生自己气啊！道个歉<br>0618 南京的最后一天<br>7:30醒一次，抱抱卷-8:30又迷糊醒了点-9:00啦，窗外下着小雨，卷先起来了！躺在床上看着她穿衣洗漱😳-这是第二次陪她醒来，妈的好想和她住一起-起床起床，冲澡冲澡。早上还要去水游城逛街街-唔刷完牙先亲一会-收拾好东西办退房啦！-放行李，拿上小伞出发-今天雨稍微有点大了，小闷，被卷裹着胳膊，好喜欢-一路往老门东的方向走过去啦，路过了白天的秦淮河以及夫子庙门口，两个人都饿啦，我傻了吧唧买了一个大烧饼（后来证明确实没吃掉），卷买了一碗甜芋头-走到水游城啦，两个人都没来过，瞎晃荡半天哈哈哈哈-听卷的，先来吃午饭，在喜茶店里坐着吃芋头，好好吃！-决定去蓝蛙吃西餐啦，有鸡尾酒哎！烤肉也到位，卷有点累和困，撑着休息呢，拿酒店送的咖啡粉冲了一杯冰美式加料哈哈哈，还可！-雨越下越大了，茶颜悦色依旧排满了队，难以理解-去逛街喽，结果！结果我是没想到的，卷要来逛的也是这个店😭，这个缘分来的，niko and，哎结果还是来晚了，他们30号以后才补货，那就点两杯饮料吧！一杯真嗣，一杯明日香，出乎意料的好看，卷也喜欢嘿嘿嘿，遇见一个要换杯垫的小孩，ok，拿玛丽换明日香啦，香党的胜利，完蛋二次元老婆被看穿了…-陪卷找找吊带衣服！可惜店里好像没有她喜欢的，那就再逛逛吧！-没想到她喜欢渚薰，这可是第13使徒啊，笑死！-出门去优衣库看看咯，选了一个工装裤，还有小吊带去试试咯，去学校拍萨勒芬妮要用啦！结果我人去找垃圾桶🗑️，她穿上以后我没及时给意见，哎！！！！！我服我自己😢-最后把工装裤收入囊中！开心-溜达溜达已经快到下午两点多啦，卷卷问我去哪里，刚好室外大雨，那我们就去博物馆咯！六朝古都博物馆预定，gogogo-漫长的等待打车，遇见了好多coser，遇见一个对着卷笑了半天的小女孩-遇见了你，卷，我喜欢你，我很想告诉你，和你一起等车，等雨停，等日出日落，等车水马龙，等风来，等雪落，等路边亮起行灯，等我看见你，等我找到你，试探你的眼睛，那8分钟，我听懂了凄美地<br>原来，我们可以心无旁骛的相拥-上车了，雨好大啊，我们许下了一个约定，不管接下来时间我两关系如何发展，5年以后，你生日那天，如果你还没结婚，我会去找你的，我会的，卷（第四个记忆深化点）。-到地方啦！下车溜溜，进馆哈哈哈，进来就是一个好大的空地，六朝指的是陈 梁 齐 宋 东晋 东吴，大旗子挂着-看了小朋友的画，小朋友捏的泥塑，然后偷偷在墙后打kiss哈哈哈哈哈-说回正题，开始正经逛博物馆啦，拍拍拍，环境很安静，人不多，全程牵着手，很开心-卷逮到一个模特路人，一路跟着拍😂，笑死-我问她，你知道在世界上保留痕迹最久的方式是什么吗，答案是在石头上刻字，我还没想好自己要刻什么-博物馆看了陶瓷，看了织锦，看了诗词，看了歌赋，看了六朝的更迭，看了历史的长河滚滚呀，给自己看饿了-决定去吃蟹黄面！4:50到的店门口，竟然没开门要排队，那就隔壁的二条逛一哈，上二层随意转了转，卷好像很喜欢这种小店铺的感觉，真棒！-赶紧去排队，刚好我们是取号以后最后一桌，上二楼哈哈哈哈哈，人少！-点了一份蟹黄面，一份桂花酒酿鸡豆米，一份蟹黄白菜，给卷说了珍珠翡翠白玉汤的故事，介绍了鸡豆米的吃法，喂了她加了醋和满满蟹黄的一口汤面，看着她笑，看着她吃，看着她心满意足。-我知道为啥我写了那么久还没写完，我不是没时间写，我是知道总有写完的时候，这两天很短暂，但是在我心里却长的像一场没有闭幕词的电影。我根本就是舍不得她，舍不得现在这经历的一切😫😫😫😫，但我内心已经完全做好了所有结局的可能，keep and go ahead。-雨会停，风会止，蟹黄面也会吃完，然后就到了去逛二条的时间~偶遇了猫猫，极限趴窗台，在二条四楼的小阳台上，短暂又不舍的kiss，有🎐，但是没有风-看了看二条里的小厨具，拍了拍有趣的上下楼梯走道，在楼道对着3楼的门拍了一张我构图的照片，卷说我是黄色废料，那个时候我还不懂啥意思😂，建议我买个黄色废料桶哈哈哈哈-要回去了，坐车车回酒店拿行李，差点漏拿了订的隐形眼镜外卖，收拾了东西，提着行李去地铁站-不是大家都爱写离别，爱写感伤，是逗号再多也无法弥补句号的完整，是再多的页码也没有一句全文终来的震耳欲聋，总归是要送她走的，她要回学校了，下次再见面不知道是多久了（目前来看，7.11之前吧，截止目前14天了）-到站了，门开了，在电梯上，她让我去认识新的女生，我让她一定要把喜欢的男生带来给我过过眼（说完这句，她说，笨蛋现在喜欢的是你）-时间刚刚好，到高铁站的时候已经在检票了-送她排上队伍-看她验票-看她进站-看她下楼去了站台-看她挥手再见-一路顺风卷，一路顺风,期待下次见面</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0701</title>
+    <url>/2023/08/22/2023-0701/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>“想见你”<br>晚上又听到卷唱歌了<br>“会不会你也会和我一样 在等待一句我愿意”<br>🍊加🍋加烟熏</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0704</title>
+    <url>/2023/08/22/2023-0704/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>总算有培训计划消息，差点把飞机票买了，还好还好。<br>因为想见你，想回去，想在站在你面前好好看你，保持清醒的看着你，让每个自己都看着你。<br>已经过去15天了，半个月<br>我不是喜欢说那种话，我是在喜欢的人面前克制不住说那些话<br>感谢是真的，有人牵挂的感觉是真的很暖心，给人力量<br>上周每次隔离完出来，看到手机上几十条几十条的消息，每次越来越多，我都又开心，又内疚，又充满希望。那是一种叫做被关注，被在意，被期待的感觉，具有正向促进的意义，我也是一个非常吃正向促进的人，所以其实不管在里面干活多累，我都觉得出来以后看到你的消息，就又重新满电量了一样。<br>就像我跟你说，那个两秒的语音，我都不敢再听第二遍，我现在唯一的不安的感觉就是失去你，失去这个说出这句话的你。说我骨子里乐观也好，其实只是因为所有的悲观情绪我都过了一遍，我选择乐观去看待罢了，又不是真的傻子。</p>
+<p>怕被人嫌弃烦   然后我知道自己有时候贼烦人…</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0705</title>
+    <url>/2023/08/22/2023-0705/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>假如穿过山海已见到你<br>又何必对着顶峰叹息<br>选一块最坚硬的青石<br>对它诉说你想流传于世的笔迹<br>风偏偏带来了云海<br>我相信他是最好的邮差 便开始了投递<br>没有纸笔与水墨的气息<br>送去的只有一帧一帧火花般璀璨的回忆</p>
+<p>找到了之前的那首改编<br>听到了卷唱这首改编后的歌<br>😭怎样都值了</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0702</title>
+    <url>/2023/08/22/2023-0702/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>青旅住宿体验不错！下次再试试别的城市的哈哈哈！<br>卷说还是喜欢单身的感觉，我是不是最近黏人过头了？好像有点，收一收收一收😲<br>这捏🦶大哥下手真狠，一问是从医院转过来的。得，遇上行家了！</p>
+<p>这里的夜总是隐藏 给情绪安上了弹簧<br>（夜晚来的太晚，白天的情绪积累太久像压缩到极限的弹簧）<br>谁将太阳遮挡 等待晚霞的余光<br>（快要入夜前，云朵将太阳遮挡，等不到晚霞，也就是等不到白天最后的美好）<br>来不及猜想<br>（这不用注释了）<br>热烈已轰然膨胀<br>（指美好，指幸福，指快乐，指所有开心的愉悦的感觉可以一瞬间填满自己）<br>是幻想 不是幻想<br>（都想过美好，都有过美好）<br>是梦醒时的一声不响<br>（也都失去过美好）<br>是渴望 不是渴望<br>（同上，一个意思的不同表述）<br>是得到时的大失所望<br>这里的夜总是隐藏 被情绪挤压了弹簧<br>（呼应并否定开头，夜就算隐藏，也终会来临，情绪没有像弹簧一样被挤压，而是情绪背后有一个被压缩的弹簧，让情绪可以轰然释放）</p>
+<p>“那就让我陪你度过这段时间吧”<br>这句话我不想再听到第二次，如果可以，我们就一直走下去</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0709</title>
+    <url>/2023/08/22/2023-0709/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>《镜面世界》<br>我像一个泄了气的气球 飘到了凌晨5点的马路<br>刚刚灭掉的路灯 残余了一点夜的温度<br>是灰扑扑的沥青路面 将我缓缓托住<br>假如世界翻转一个角度<br>一个泄了气的气球 飞到了属于自己的高度</p>
+<p>蓝白色格子纹小裙子，坐在长条椅子上<br>得，第一眼就不敢继续看了<br>我得缓缓，开始瞅小狗<br>好像并没有想象中的那种热烈与惊喜<br>是老友见面，是仿佛昨天刚见面的感觉<br>还是和之前一样<br>我想过，我会哭 会笑 会失态<br>然后我平静的坐在她旁边 差点不敢看她<br>所有的波涛汹涌，在看到你的一瞬间，便被抚平了褶皱<br>你是那片海，我可以握得一捧，放进我远去的小船。每当天空无云，星光灿烂，我就看着我的那片海，看她给我反射出的满天星辰。</p>
+<p>不许想 不许笑 不许看 不许闻 不许碰<br>在彼此最接近的时候 我还是能心无旁骛的和你相拥</p>
+<p>okk 卤肉饭完成一半了～<br>忍不住偷吃一口！妈耶 咸了</p>
+<p>我不是喜欢讲睡前故事，是因为夜晚太长<br>而晚安只有两个字，太短<br>我担心陪不了你整个宁静的夜<br>所以我想多点字数，多些描述，多些角色<br>让他们代替我 为你奏一曲夜的命名术</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0708</title>
+    <url>/2023/08/22/2023-0708/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>醒一醒<br>25岁了，我还能被人讲故事哄睡觉💤哈哈哈哈，真好啊</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0707</title>
+    <url>/2023/08/22/2023-0707/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>兰州最后一晚，好梦谷宇童，明天见！<br>准备起飞咯 好想你</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0710</title>
+    <url>/2023/08/22/2023-0710/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>陪卷看电视剧~<br>吃阿姨做的 卷蒸的饺子~<br>我还是太热了<br>浑身上下都太热了<br>今天听着她说别人 感觉好像是吃醋了<br>其实和3月份那次见面，听她说故事感觉不一样<br>那次感觉是 “哦，原来她又有喜欢的人了”<br>她手机密码是我生日哎 该死的这种小细节又吃定我了<br>我不想再去爱另外一个人了</p>
+<p>她最喜欢的是《注定》<br>她给我读的故事是《温暖的人头上会长小星星》</p>
+<p>梦好像醒了<br>这该死的记忆</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0711</title>
+    <url>/2023/08/22/2023-0711/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我要问清楚一点<br>是哪些具体的原因 让你觉得彼此可能没有结果<br>得，还是没法开口<br>得不得月光握紧就变黑暗<br>两个人都犯了一个错误 带着结果去谈恋爱</p>
+<p>人格融合过程最后阶段的淬火完成了<br>聚合再敲碎  聚合再敲碎  聚合再敲碎<br>从回避型依恋 到焦虑型依恋 到恢复平常心<br>今年真的很不一样<br>庆幸也是在这个年纪，不早不晚</p>
+<p>莫比乌斯环！！没想到卷喜欢这个</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0712</title>
+    <url>/2023/08/22/2023-0712/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>牵一次手<br>拥一次抱<br>接一次吻<br>一张床上一起入眠<br>一起旅游<br>第一次看演唱会<br>看一次私人电影<br>吃一次我做的饭<br>说一次我爱你<br>说一次我想你<br>听一段你唱给我的歌<br>收到一张你拍我的照片<br>得到一次你对我的偏爱<br>一起看一次日出<br>一起逛一次超市<br>吃一次你蒸的饺子<br>散一次步<br>然后我收回我洒落一地的星辰<br>等你再愿意抬头看我一次<br>在我面前说一句<br>我爱你</p>
+<p>《我们做朋友吧》<br>我在凌晨1点对着枕头诉苦<br>然后心脏于凌晨3点痛哭<br>这间隔的两个小时<br>是不同于往日的迷糊<br>多少次等待和相遇<br>能再有一个击中我的抬头<br>在那上行的扶梯中<br>谢谢你的眸<br>装满了我溢出的泪流</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0713</title>
+    <url>/2023/08/22/2023-0713/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>今天是需要加班的一天~</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0714</title>
+    <url>/2023/08/22/2023-0714/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>既然种子已发芽<br>大树已成荫<br>在枝丫上安一个秋千吧<br>我允许你在我心上荡秋千<br>你从没有抛下我<br>我也愿意慢慢的陪你推秋千</p>
+<p>一般的一天<br>一般的一晚<br>一般的雨夜<br>到马路上的车只剩下你亮起的一盏<br>一般的跳动充满我的一半<br>对你说句抱歉<br>我来的太晚</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0712早晨版本</title>
+    <url>/2023/08/22/2023-0712%E6%97%A9%E6%99%A8%E7%89%88%E6%9C%AC/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这一天的文档写的我要麻了<br>卷卷的一天经历<br>1.认识了一个漂亮妹妹 长得和王楚然可像了 然后我们重新分组 我们两在一个组<br>2.起组名的时候超好玩 我们组有个男的及其外向 但我并不觉得他聪明[尴尬]只是很敢说 其他人自我介绍的时候就很明显都是i人 然后我就说咱们就叫e立i群[好的] 居然7个人赞同笑死我<br>3.后面破冰游戏的时候 哈哈哈哈哈哈哈 玩的拼图 🧩我们组直接赢两轮 （一共五）[嘿哈] 我感觉我为i做e了 拼图结束之后都要回答问题 然后我们组长（那个e人）就让我回答<br>4.不太ok的 每个组都有一个小记者 写宣传稿什么的 全员i人没人愿意做 然后掷骰子🥲我一把子到6 毫无悬念干活我哭死<br>5.早上来的时候 我之前加的同事嘛 给他同学介绍我（有些人是一个学校的就提前认识） 说我就是那个萨勒芬妮</p>
+<p>记住，永远别主动提小孔同学 雷区不要踩<br>她可以说 你不能说</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0715</title>
+    <url>/2023/08/22/2023-0715/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>第一次散步！<br>满大街溜达！<br>释放心情！<br>恢复开心！<br>我要做你的充电宝！<br>开开心心卷宝宝！</p>
+<p>哎，每次都习惯性憋着自己，比较烦恼<br>好像我就是太注意不让卷反感了？<br>下次不憋着了！</p>
+<p>卷卷下辈子要做一只水豚！hhhh<br>或者做一只韩国的panda！<br>虽然我这一周也蛮累的啦，但是！<br>黑暗中你的一吻 比什么都更温馨</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0717</title>
+    <url>/2023/08/22/2023-0717/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>消失的卷卷！！！<br>想死她啦！<br>为什么要加班到9点还不愿意走，当然是因为有预感嘿嘿<br>从背后一个狠狠的抱住，安慰她这一天的忙碌<br>头发还行，没被嫌弃，那就好那就好<br>带了一个蓝色小发夹，没见过，好可爱<br>吃鱼丸，qq弹弹<br>然后开始写日报！<br>为什么实习都要写日报！<br>还好在我专业范围内😬，能帮到她的感觉真好<br>但是我写东西的时候她好像在一直看我哎<br>没敢抬头☺️<br>吃完鱼丸就送她回家啦，我敢主动牵手啦<br>还敢主动亲她<br>别憋着自己！别憋着自己！别憋着自己！<br>卷好像会不由自主的垫脚尖，感觉这样她会累，我还不让她垫<br>下次应该换个方式，让她踩我鞋子上面😗<br>能够陪伴你，有照顾你的机会，我很开心<br>希望你也一样开心，少点焦虑，少点不安<br>活出自己想要的样子！</p>
+<p>ps 创新大赛这个事情，pc侧的再想想先！<br>明天去找找最新的微型计算机杂志瞅瞅去</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0716</title>
+    <url>/2023/08/22/2023-0716/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>如果回忆掉进了大海<br>如果期许都不曾归来<br>我爱你的样子 是日出日落交替的存在<br>在每个凌晨5点醒来<br>在每个梦里紧握你我的未来</p>
+<p>[图片 176.jpg]<br>我愿称之为快餐crush的感情，只顾享受多巴胺了<br>跟我们两个不一样，因为坚定彼此都会一起，无论是什么身份，也要一起。</p>
+<p>嘿嘿嘿，烫的头还行，没有被讨厌！<br>我就说嘛，我自己做的的东西，不会被嫌弃的<br>比较好奇，是不是今晚和王锦散步聊天说我了<br>看样子是说了🤔<br>好奇好奇好奇</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0718</title>
+    <url>/2023/08/22/2023-0718/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>幸福有很多种，但有一种的样子<br>肯定是我们见面的样子<br>陪伴有很多种，但有一种的样子<br>肯定是我们四目相对的样子<br>ok那么今晚就留7分钟的见面时间，2分钟吃瑞士卷，5分钟吃卷！hhhhhh</p>
+<p>嘿嘿嘿<br>好喜欢她撒娇的样子 真少见<br>卷卷吃卷卷 是瑞士卷！<br>逢考必过！！你一定可以的！！<br>竟然喜欢看女女……<br>奇怪的知识又增加了😂<br>对了，发现自己有个毛病，喜欢根据已有经验直接下判断，这个得注意下，不能完全相信经验！<br>第一次走北门！乖乖，这下发现她开车是有点上头的哈哈哈哈</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0719</title>
+    <url>/2023/08/22/2023-0719/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>起床犯困 上班犯困 干活烦躁<br>今天因为持续的吃碳水吃少了，心情烦躁<br>忍不住跟卷卷说了<br>我本来期待一句“抱抱”或者其他安慰的话<br>没想到她直接开车来见我了😭😭😭😭😭😭<br>她为什么这么好<br>好开心好开心好开心好开心好开心嘿嘿嘿嘿<br>她第一次喊我“宝宝”☺️☺️☺️<br>原来发现自己对称呼好像有点敏感……<br>见到了紫色小卷卷~ 感觉紫色更搭哎，好有活力的样子，真可爱！<br>一起去吃泰式大排档了！味道不错<br>糯米饭 土豆泥 咖喱鸡 冬荫汤  好耶没有踩雷（差点在对面店里踩雷哈哈哈哈）<br>腰酸背痛的卷卷 可以把中医推拿提上日程了！<br>给卷捏捏，不敢用劲，害怕弄疼她<br>嗷，吃完碳水，舒坦了，彻底舒坦了！<br>谢谢卷宝，在我需要你的时候，毫不犹豫的出现了，爱你爱你爱你爱你！你是最棒的！<br>现在我成了枪手，写卷卷的每日打工日记啦哈哈哈<br>体验下车技，稳稳的，车感不错<br>（该死的安全带，束缚了我）<br>被送到公司门口了，临别一吻</p>
+<p>车水马龙的大街 呼声呼起的夜<br>我在密闭的黑匣里感受雨的宣泄<br>一滴一滴又一滴的将那杯填满<br>溢出仍不停的滑落<br>只恨这杯不能再大一些<br>这雨夜不能再漫长一点<br>这空气不能再透着窒息般的束缚<br>直到我与你共享彼此的胸膛<br>听两座山谷间散不完的风<br>刻下风带来的挂念<br>-《未命名》等卷卷检查</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0722</title>
+    <url>/2023/08/22/2023-0722/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我 我  我  我<br>首先回顾下 这是第一次在卷卷家吃饭！<br>上次吃饺子不算<br>为什么那个楼道和电梯能这么闷…救命<br>一身汗的到卷卷家了，尴尬<br>好香的菜嘿嘿嘿<br>先让卷卷换下衣服，真的可以当裙子咯~<br>卷卷说衣服上全是我身上的味道哎哈哈哈哈哈<br>你喜欢就好，真好<br>还买了咖喱！还有虾片！<br>毛豆排骨 西红柿鸡蛋肉沫汤 黄咖喱土豆南瓜鸡排 香辣鸡杂<br>香喷喷的一顿 吃饱了！<br>水果有蓝莓和冬枣<br>接下来是废料时间……此处省略1000字描述<br>我感觉要是不走，能亲一天 是这样的<br>晚上去看芭比啦，笑死，又尬又笑，女性独立的内核，做自己，永远坚信做自己！<br>然后…<br>“我爱你” （记忆无敌深化！！！）<br>得检查下哪里漏电了，我骨头都麻了🥰<br>“姐姐，我也爱你”</p>
+<p>谢谢你，吴娟娟，这两个月感觉是被你需要的，被你喜欢，被你偏爱的，被你照顾的，谢谢你！<br>真的谢谢你可以来爱我，我跟你一样很开心~</p>
+<p>晚上一起去超市啦，吃7折寿司哈哈哈哈，除了米硬一点，其他还行啦~<br>被嫌弃不会挑🌸了😥😥，这块技能点还是空白😵，记得补足！！</p>
+<p>甲硝锉片加红霉素软膏！ </p>
+<p>好多小狗狗</p>
+<p>卷卷生日想再去一次迪士尼！（暂定！）<br>10.31 万圣夜 11.1万圣节<br>又送到家门口啦，等8月考完试要记得带你去游泳啦，学自由泳~<br>（8.26考试，后续11月出成绩，加油加油！相信自己可以的！）</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0720</title>
+    <url>/2023/08/22/2023-0720/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>如果我们在一起顺利<br>那日出和日落是相伴我们一生的回忆<br>我愿先你一步跳入大海<br>在浪涛中给你最无畏的鼓励<br>这摩天轮的五光十色<br>慢悠悠的映射在彼此的面庞<br>慢悠悠的像我们相遇相知相伴的时光<br>陪同世界一起转动<br>你站在不同方向的角落向我招手<br>不管这距离的跨度或高或低<br>离开你只是反向的逆行<br>不回头是因为莫比乌斯环的定义<br>弃了现在的自己 只为了再次与你相遇</p>
+<p>今天卷卷提前半小时来等我！<br>如果我们两没有结果。你觉得我们还该继续下去吗？</p>
+<p>我会继续走下去，因为这可能是仅有的一次机会，不把握机会的人和傻子无异，我不愿当那个傻子。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0721</title>
+    <url>/2023/08/22/2023-0721/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>今天卷卷送我回家了！<br>因为想见我，虽然可能见到我并没有多么开心。<br>第一次看想见你 看了一集 女主身上buff叠满了<br>卷卷想拍视频哒，拍风景类的？</p>
+<p>今天在家门口聊了很多，还是把该说的一些事情说出来了</p>
+<p>阿姨希望卷卷有个好的生活，所以各方面的要求都是很高的<br>从个人，家庭，能力，照顾等方面出发<br>确实初衷是好的，我也希望她能过这样的日子</p>
+<p>好像我家里从来就没有跟我谈过这样的事情……尴尬</p>
+<p>我还是说出来了我的感觉，感觉现在不算是在谈一场恋爱，虽然从各方面来说都很像。但是我觉得缺点什么，她也一样觉得缺点什么。</p>
+<p>典型的天蝎座♏<br>那么目前来说，没有看到极强的占有欲算一点。</p>
+<p>好了再说回来，家庭，皮肤，走路问题<br>不是很能懂我写的一些东西，也懒得去问</p>
+<p>其实也没想和小孔分手的</p>
+<p>谷宇童，我问你，你是不是只想她过得好，过得开心，以后笑的时间多，难过的时间少，被照顾的好好的，能有个安静的家庭，和谐的下半辈子，看日出日落看大海看高山看平原。<br>是的<br>做好准备吧，感谢你喜欢我，谢谢</p>
+<p>我的喜欢很纯粹 我的爱也很纯粹<br>只是现实很容易击碎脆弱不堪的东西</p>
+<p>我好像总是慢别人一步<br>在最该大声说爱你的时候我选择闭口<br>在最该享受生活的时候我选择自闭<br>在最该开始去体验爱情的时候我不去学习如何爱<br>在学会了怎么爱一个人的时候我要面对现实的痛击<br>后面呢？后面又是迟来什么我不知道…</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0723</title>
+    <url>/2023/08/22/2023-0723/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>睡满8小时 加锻炼 恢复一周的精力！！<br>下次带卷卷散步时，可以滑滑板！<br>下午收拾东西滴呢<br>卷卷创新大赛要做资料了，哈哈哈<br>没有审题跑去改文档了😂<br>还好后面能帮上忙，总结一下话术啦<br>嘻嘻，晚上一起看的台版第二集，好开心啊！<br>新的一周开始咯，晚安呆呆<br>明天如果下班早，我去找你呀！</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0724</title>
+    <url>/2023/08/22/2023-0724/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>该死的，加班不停了<br>所以大陆版的好处就是可以看半集！<br>卷卷中午吃可乐鸡饭饭~<br>云朵好像日剧的颜色哦<br>又可以画线条小狗啦哈哈哈</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0725</title>
+    <url>/2023/08/22/2023-0725/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>滴滴滴，第6集看完<br>哈哈哈哈哈，准备好久的小游戏终于用上了，<br>卷卷获得手工品愿望卡一张~<br>虽然命题被否啦，但是方向定下来啦！加油加油！<br>下班和卷卷一起去吃米线啦~好恰！一碗就饱了，还有小鸡腿以及咖喱丸<br>卷卷还喜欢吃羊蝎子！不喜欢吃茄子！<br>卷卷晚上不能吃太多，否则消化不好会不舒服，而且心情会变差<br>（卷卷胃消化要注意！）<br>胳膊被咬了蚊子包，卷卷亲了一口哎，你怎么这么会😝😝😝<br>晚上回去一起看下一集<br>回去以后说好了周日再见咯  虽然真的很想你但是不能让你每次都回去那么晚！！！说到做到，咱们周末见！</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0727</title>
+    <url>/2023/08/22/2023-0727/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>卷卷今天8:18分打卡<br>早上做噩梦了！！梦到开车被家里人说！！<br>结果早上差点追尾，以后早晚班时间不发消息给她！！！免得看到分心，记住！真的吓死人了😞😞😞<br>卷卷好像气还没消完 好想去找她 好想去…<br>这两天不是特别忙了，晚上应该能早点撤，啊啊啊啊啊啊啊啊啊啊啊啊啊，忍住<br>明天提醒卷卷写自我介绍！！</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0726</title>
+    <url>/2023/08/22/2023-0726/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>卷卷今天8:16打卡~<br>离谱了，卷卷刚入职场就遇见这种憨憨货色<br>帮卷卷做ppt 哈哈哈开心哦！<br>今天是第一天不见面！忍住忍住忍住……<br>晚上锻炼了一会，我刚还想说要不要废料下说自己充血了，结果她直接打过来了😂😂😂<br>这个工作作息啥时候让我能恢复正常训练进度啊，真要命<br>晚上没吃东西，饿！！<br>你个呆逼谷宇童，晚上逗猫玩一会，就开始阴阳怪气耍嘴皮子了吧。<br>哦吼，给卷整生气了我看你咋办？🧐<br>是不是应该珍惜打电话的时间<br>是不是应该注意下11:30了<br>是不是应该哄卷宝睡觉了<br>是不是卷宝说自己睡眠不够<br>你呀，笨蛋一个</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0728</title>
+    <url>/2023/08/22/2023-0728/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>约会地点：意大利面馆（真的很难评）<br>准备物件：<br>相机<br>钮扣电池两块<br>雨伞<br>湿巾 纸巾<br>头绳<br>一束小花（上次说过喜欢卡布奇诺）</p>
+<p>没有虾的寿司，不过芒果味道不错，卷卷左胳膊的胎记，这次真是第一次有印象，在打针的位置<br>不是很好吃的晚餐 意大利面拉胯 和卷卷在宁波吃的差远了！！</p>
+<p>第一次帮卷卷剥虾！<br>随意的散步，结果因为意外摔倒受伤🤕，右胳膊滑出红印子啦！！！<br>tmd我怎么没扶住<br>我在干什么？<br>其实比较无力的感受在于我也只能说一说，提供一下安慰和情绪价值，实际的对考试的帮助，我很难做到。<br>我不想做那个只会说的人…<br>换到她的视角，也一样不想只听到我在叭叭叭<br>我这破嘴不能停一停吗<br>然后感觉到卷卷心情持续低迷了…，应该是想到考试和工作的事情了吧。<br>好好陪陪她！</p>
+<p>见面可以很简单，也可以不容易<br>但是见你，怎么都容易，因为我愿意<br>人的一生就3万多天<br>这3万多天里我不知道与你相见相伴的能有几天<br>所以，每一次我都要珍惜<br>生命嘛，不在流失中抓住，就剩下等待干涸<br>爱情嘛，不去好好的珍惜，就剩下那个后悔没尽全力的自己！</p>
+<p>这个梦真牛逼<br>卷卷心情不佳，准备回安财，然后在回去的路上，先坐火车准备去看海，然后去了一个安徽省内的地方看海（离谱，内陆看海），然后我就跟过去找卷卷，我担心你一个人。然后到了那个地方，我发现我在梦里自己来过（清醒梦了），我很轻车熟路的就知道你在哪里看海，因为这个城市只有一片沙滩。果然，你在沙滩不远处一个高点处坐着，我找到你，然后陪你一起无声的看落日。就在这时，我两一起发现海平面上出现了航母，飞机，轰炸机，并且整座城市开始预警，说对外交通取消，进入一级战备状态，我就带着你去避难所，在去避难所的路上，海平面好像已经打仗打起来了，迎来一阵海啸，然后浪涛扑过来，我把你抱着护在身前，但是浪太大，还是淋湿了！</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2023-0729</title>
+    <url>/2023/08/22/2023-0729/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>加班的一天！！ 锻炼！！晚上去找60玩了！！狗东西现在就不想着好好调酒，下次不去了。西瓜都得我自己切</p>
 ]]></content>
   </entry>
 </search>

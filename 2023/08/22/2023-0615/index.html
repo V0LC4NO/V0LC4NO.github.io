@@ -106,7 +106,7 @@
     <div class="article-entry" itemprop="articleBody">
        
   <p>每日好句子<br>一日一月一山水<br>半醉半醒半怕5<br>让我想想夜里发生了什么事情<br>一起去酒吧 散步回家 计划爬山看日出 回去洗澡<br>又聊又kiss一个通宵 表达担忧和不自信 给我一个猛烈的推开和push 天台看朝霞 记录清晨<br>已知情报:<br>1.缺少陪伴，感情消散快<br>2.对他人的评论和看法有意见<br>3.担忧从朋友开始的一段关系，最终都是走向be般的结束（类似经历过多导致ptsd）<br>4.重视结果，但也对长期关系有同样的渴求<br>5.生气时会冷暴力，但其实需要的是情绪稳定的人帮助梳理和解决问题<br>6.对不爱的人性冷淡<br>7.会去爱一个自己坚定选择的人<br>8.希望自己成为一个情绪更加稳定的人<br>9.边界感较低 对待喜欢和能接受的人，不排斥亲密接触<br>10.担忧关系的不对等和无法给我同等的爱</p>
-<p>！<a href="/images/0615.jpg">图片</a></p>
+<p><a href="/images/0615.jpg">图片</a></p>
  
       <!-- reward -->
       
@@ -199,7 +199,55 @@
     
   </nav>
 
-  
+   
+<!-- valine评论 -->
+<div id="vcomments-box">
+  <div id="vcomments"></div>
+</div>
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src="https://cdn.staticfile.org/valine/1.4.16/Valine.min.js"></script>
+<script>
+  new Valine({
+    el: "#vcomments",
+    app_id: "nHRoXSblizkEY9YKt8TxGIp4-gzGzoHsz",
+    app_key: "mRyxZU7QB8eYx9Dqcky1fbs8",
+    path: window.location.pathname,
+    avatar: "wavatar",
+    placeholder: "这里是一个调皮的留言板，快来给他一拳~",
+    recordIP: true,
+  });
+  const infoEle = document.querySelector("#vcomments .info");
+  if (infoEle && infoEle.childNodes && infoEle.childNodes.length > 0) {
+    infoEle.childNodes.forEach(function (item) {
+      item.parentNode.removeChild(item);
+    });
+  }
+</script>
+<style>
+  #vcomments-box {
+    padding: 5px 30px;
+  }
+
+  @media screen and (max-width: 800px) {
+    #vcomments-box {
+      padding: 5px 0px;
+    }
+  }
+
+  #vcomments-box #vcomments {
+    background-color: #fff;
+  }
+
+  .v .vlist .vcard .vh {
+    padding-right: 20px;
+  }
+
+  .v .vlist .vcard {
+    padding-left: 10px;
+  }
+</style>
+
+ 
    
   
    
